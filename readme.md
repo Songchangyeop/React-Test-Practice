@@ -3,8 +3,8 @@
 </br>
 
 > ### 환경설정
->
-> </br>
+
+</br>
 
 1. `npm init --yes` </br>
 2. `npm install jest --global`</br>
@@ -14,14 +14,16 @@
 </br>
 
 > ### Test 시작
->
-> `npm run test`
+
+</br>
+
+`npm run test`
 
 </br>
 
 > ### 파일이 변경 될 때 마다 테스트 코드 실행
->
->  </br>
+
+</br>
 
 `package.json 파일 내에`
 
