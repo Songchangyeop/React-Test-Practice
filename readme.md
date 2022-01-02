@@ -2,6 +2,10 @@
 
 </br>
 
+## [Jest Getting Started 페이지 링크](https://jestjs.io/docs/getting-started)
+
+</br>
+
 > ### 환경설정
 
 </br>
