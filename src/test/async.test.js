@@ -8,12 +8,14 @@ describe('async - done', () => {
 			done();
 		});
 	});
-	// retunr을 이용한 비동기 테스트
+
+	// return 이용한 비동기 테스트
 	it('async - return', () => {
 		return fetchProduct().then((item) => {
 			expect(item).toEqual({ item: 'Milk', price: 200 });
 		});
 	});
+
 	// await을 이용한 비동기 테스트
 	it('async - await', async () => {
 		const product = await fetchProduct();
