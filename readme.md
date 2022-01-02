@@ -2,7 +2,7 @@
 
 </br>
 
-## [Jest Getting Started 페이지 링크](https://jestjs.io/docs/getting-started)
+### [Jest Getting Started 페이지 링크](https://jestjs.io/docs/getting-started)
 
 </br>
 
